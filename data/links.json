@@ -1,5 +1,6 @@
 [
-    {"name": "IFB", "url": "i/ifb.html"}, 
-    {"name": "State Bank Of India (Net Banking)", "url": "s/sbinb.html"}, 
-    {"name": "State Bank Of India", "url": "s/sbi.html"}
+    "IFB", 
+    "State Bank Of India (Net Banking)", 
+    "State Bank Of India",
+    "HDFC Bank"
 ]

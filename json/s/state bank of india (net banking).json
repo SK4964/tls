@@ -1,0 +1,9 @@
+{
+  "header": "State Bank Of India (Net Banking)",
+  "url": {"link": "https://www.onlinesbi.sbi", "text": "onlinesbi.sbi"},
+  "rows": [
+    {"field": "Toll Free", "value": "1800 1234, 1800 2100"},
+    {"field": "Landline", "value": "0091 80 26599990"},
+    {"field": "Updated Date", "value": "11/08/2024"}
+  ]
+}
