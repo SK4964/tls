@@ -2,9 +2,9 @@
   "header": "IFB",
   "url": {"link": "https://www.ifbappliances.com", "text": "ifbappliances.com"},
   "rows": [
-    {"field": "E-Mail", "value": "customerservice@ifbglobal.com"},
     {"field": "Landline", "value": "080 695 45678, 080 458 45678"},
-    {"field": "Mobile<", "value": "+91 9231004321"},
+    {"field": "Mobile", "value": "+91 9231004321"},
+    {"field": "E-Mail", "value": "customerservice@ifbglobal.com"},
     {"field": "Updated Date", "value": "11/08/2024"}
   ]
 }

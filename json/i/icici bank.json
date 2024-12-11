@@ -1,0 +1,9 @@
+{
+  "header": "ICICI Bank",
+  "url": {"link": "https://www.icicibank.com", "text": "icicibank.com"},
+  "rows": [
+    {"field": "Toll Free", "value": "1800 1080"},
+    {"field": "Landline", "value": "+91-22-33667777"},
+    {"field": "Updated Date", "value": "11/12/2024"}
+  ]
+}
