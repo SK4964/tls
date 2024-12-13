@@ -1,5 +1,5 @@
 {
-  "header": "ICICI Bank",
+  "title": "ICICI Bank",
   "url": {"link": "https://www.icicibank.com", "text": "icicibank.com"},
   "rows": [
     {"field": "Toll Free", "value": "1800 1080"},
