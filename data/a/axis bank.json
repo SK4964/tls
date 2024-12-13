@@ -1,0 +1,9 @@
+{
+  "title": "Axis Bank",
+  "url": {"link": "https://www.axisbank.com", "text": "axisbank.com"},
+  "rows": [
+    {"field": "Toll Free", "value": "1800 209 5577, 1800 103 5577"},
+    {"field": "Others", "value": "1860 419 5555, 1860 500 5555"},
+    {"field": "Updated Date", "value": "13/12/2024"}
+  ]
+}
