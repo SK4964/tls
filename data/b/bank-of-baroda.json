@@ -1,0 +1,11 @@
+{
+  "title": "Bank Of Baroda",
+  "url": {"link": "https://www.bankofbaroda.in/", "text": "bankofbaroda.in"},
+  "rows": [
+    {"field": "Toll Free", "value": "1800 5700, 1800 5000"},
+    {"field": "Domestic Overseas Customers", "value": "+91 79-66296009"},
+    {"field": "NRIs (From overseas locations)", "value": "+91 79-66296629"},
+    {"field": "NRI Customers Only", "value": "nricustomercare@bankofbaroda.com"},
+    {"field": "Updated Date", "value": "08/02/2025"}
+  ]
+}

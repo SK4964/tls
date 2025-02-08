@@ -1,0 +1,11 @@
+{
+  "title": "Union Bank Of India",
+  "url": {"link": "https://www.unionbankofindia.co.in/", "text": "unionbankofindia.co.in"},
+  "rows": [
+    {"field": "Toll Free", "value": "1800 208 2244, 1800 425 1515, 1800 425 3555"},
+    {"field": "Tolled", "value": "080-61817110"},
+    {"field": "Fraud/Disputed Transaction", "value": "1800 2222 43"},
+    {"field": "NRI Customers", "value": "+91 8484848458"},
+    {"field": "Updated Date", "value": "08/02/2025"}
+  ]
+}

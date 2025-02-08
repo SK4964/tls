@@ -1,0 +1,10 @@
+{
+  "title": "Punjab National Bank",
+  "url": {"link": "https://www.pnbindia.in/", "text": "pnbindia.in"},
+  "rows": [
+    {"field": "Toll Free", "value": "1800 1800, 1800 2021"},
+    {"field": "Tolled", "value": "0120-2490000"},
+    {"field": "E-Mail", "value": "care@pnb.co.in"},
+    {"field": "Updated Date", "value": "08/02/2025"}
+  ]
+}

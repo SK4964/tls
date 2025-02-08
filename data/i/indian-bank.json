@@ -1,0 +1,9 @@
+{
+  "title": "Indian Bank",
+  "url": {"link": "https://www.indianbank.in/", "text": "indianbank.in"},
+  "rows": [
+    {"field": "National Help Line", "value": "1800 425 00 000"},
+    {"field": "NRI Customer Care", "value": "+91 44 2888 2999"},
+    {"field": "Updated Date", "value": "08/02/2025"}
+  ]
+}

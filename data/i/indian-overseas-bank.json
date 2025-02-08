@@ -1,0 +1,12 @@
+{
+  "title": "Indian Overseas Bank",
+  "url": {"link": "https://www.iob.in/", "text": "iob.in"},
+  "rows": [
+    {"field": "Toll Free", "value": "1800 890 4445, 1800 425 4445"},
+    {"field": "Overseas Customers", "value": "+91-44-35000124, +91-44-24371140"},
+    {"field": "NRI Helpdesk", "value": "044 24353640, 044 2851 9611"},
+    {"field": "Digital Banking Complaints ", "value": "044 24371120"},
+    {"field": "Cyber Fraud Complaints", "value": "044-28584890 / cybercell@iob.in"},
+    {"field": "Updated Date", "value": "08/02/2025"}
+  ]
+}
