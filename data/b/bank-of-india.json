@@ -1,0 +1,13 @@
+{
+  "title": "Bank Of India",
+  "url": {"link": "https://bankofindia.co.in/", "text": "bankofindia.co.in"},
+  "rows": [
+    {"field": "Toll Free", "value": "1800 103 1906, 1800 220 229"},
+    {"field": "Tolled", "value": "(022) - 40919191"},
+    {"field": "WhatsApp", "value": "+91 7997987601"},
+    {"field": "E-Mail", "value": "cgro.boi@bankofindia.co.in"},
+    {"field": "NRIs Customers", "value": "+91 7969241100"},
+    {"field": "E-Mail (NRI Customers)", "value": "FEBO.NRI@Bankofindia.Co.In"},
+    {"field": "Updated Date", "value": "09/02/2025"}
+  ]
+}
